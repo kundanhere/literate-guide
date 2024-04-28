@@ -7,7 +7,7 @@ Want to quickly get started building your own project with [Prismic][prismic], [
 
 &nbsp;
 
-![Website screenshot](src/slices/hero/screenshot-default.png)
+![Website screenshot](https://github.com/kundanhere/literate-guide/blob/main/src/slices/Hero/screenshot-default.png)
 
 &nbsp;
 
