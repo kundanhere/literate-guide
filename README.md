@@ -1,9 +1,9 @@
 # Prismic + Next.js Minimal TypeScript, Tailwind, and GSAP.
 
-Want to quickly get started building your own project with [Prismic][prismic], [Next.js][nextjs], and TypeScript? This project includes Linear-style website with Next.js, Prismic, Tailwind, and GSAP.
+Want to quickly get started building your own project with [Prismic](https://prismic.io), [Next.js](https://nextjs.org/), and TypeScript? This project includes Linear-style website with Next.js, Prismic, Tailwind, and GSAP.
 
-- **Demo**: [Open live demo]("https:/#")
-- **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
+- **Demo**: [Open live demo](https://literate-guide-gamma.vercel.app/)
+- **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation](https://prismic.io/docs/setup-nextjs)
 
 &nbsp;
 
